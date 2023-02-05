@@ -15,10 +15,10 @@ A business continuity plan (BCP) is a system of prevention and recovery from pot
 
 <h2>Business Continuity Plan (BCP) Process:</h2>
 This tends to involve a 4 step process:<br />
-<br /> 1. <strong>Analysis<strong/> (Risk evaluation and determine business impact)<br /> 
- <br /> 2.<strong>Design (Develop recovery strategies) <br /> 
-<br /> 3.<strong>Implement (Implement the solution)<br /> 
- <br />4.<strong>Test (Test your plan in different scenarios and ensure the plan is updated regularly)  <br /> 
+<br /> 1. <b>Analysis</b>(Risk evaluation and determine business impact)<br /> 
+ <br /> 2.<b>Design</b> (Develop recovery strategies) <br /> 
+<br /> 3.<b>Implement</b> (Implement the solution)<br /> 
+ <br />4.<b>Test</b> (Test your plan in different scenarios and ensure the plan is updated regularly)  <br /> 
 <br />
 
 <h2>Types of Phishing Emails</h2>
