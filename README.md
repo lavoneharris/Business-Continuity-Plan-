@@ -20,16 +20,16 @@ This tends to involve a 4 step process:<br />
 <br />
 
 <h2>Types Business Continuity</h2>
-1. Operational - Are systems and processes that are mission critical able to function without disruption? (Outages with mission critical services, Issues in Supply Chain, and Product failures)<br>
-2. Technological - Are the technologies that the organization relies can ensure the integrity of their system? (Data loss, Hardware failure, and telecom outages)<br>
-3. Economic - Is the organization able to still be profitable during a  economic issue (Recession and Financial loss)<br>
-4. Workforce - Having enough staff, right staff, that can handle work in turmoil. (Workplace strikes, Loss of essential employee, not scaling the department)<br>
-5. Safety - Having a safe work environment for employees. (Pandemics, Occupational hazards, Workplace emergencies)<br>
-6. Environmental - Being able to operate efficiently and safely in work setting. (Severe weather and Natural hazards) <br>
-7. Security -Making sure business assets are secure from breach that can effect operation, safety, and reputation. (Theft, Vandalism, and Cyberattacks)<br>
+1. Operational - Are systems and processes that are mission critical able to function without disruption? (Outages with mission critical services, Issues in Supply Chain, and Product failures)<br><br>
+2. Technological - Are the technologies that the organization relies can ensure the integrity of their system? (Data loss, Hardware failure, and telecom outages)<br><br>
+3. Economic - Is the organization able to still be profitable during a  economic issue (Recession and Financial loss)<br><br>
+4. Workforce - Having enough staff, right staff, that can handle work in turmoil. (Workplace strikes, Loss of essential employee, not scaling the department)<br><br>
+5. Safety - Having a safe work environment for employees. (Pandemics, Occupational hazards, Workplace emergencies)<br><br>
+6. Environmental - Being able to operate efficiently and safely in work setting. (Severe weather and Natural hazards) <br><br>
+7. Security - Making sure business assets are secure from breach that can effect operation, safety, and reputation. (Theft, Vandalism, and Cyberattacks)<br><br>
 <br>
 <h2>Difference between Business Continuity vs Disaster Recovery </h2>
-AWhile a Disaster Recovery Plans are apart of the large umbrella of a Business Continuity Plan, a Disaster Recovery Plan is a more technical plan used when recovering from a failure. A Business Continuity Plan is way figuring out the relationship during crisis. .<br>
+While a Disaster Recovery Plans are apart of the large umbrella of a Business Continuity Plan, a Disaster Recovery Plan is a more technical plan used when recovering from a failure. A Business Continuity Plan is way figuring out the relationship during crisis. .<br>
 <strong>Examples of Recon Emails in the real world:</strong> <br>
  
  <br>
