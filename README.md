@@ -1,4 +1,4 @@
-# Business-Continuity-Plan
+# Business Continuity Plan
 <strong> For demonstration purposes I have a fictional tech company similar to Apple and how they may make a Business Continuity Plan. This fictional Tech company is called Kiwi and it is a direct competitor to Apple, Google, and Samsung
 <h1>Categorizing Phishing Emails</h1>
 
