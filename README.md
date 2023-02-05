@@ -30,14 +30,56 @@ This tends to involve a 4 step process:<br />
 6. Environmental - Being able to operate efficiently and safely in work setting. (Severe weather and Natural hazards) <br>
 7. Security -Making sure business assets are secure from breach that can effect operation, safety, and reputation. (Theft, Vandalism, and Cyberattacks)<br>
 <br>
-<h2>Reconnaissance Emails:</h2>
-Also know as Recon Emails, have one vital goal in mind and that is to get a response from the recipient. That recipient doesn't even have to reply to the message from the sender as the sender has numerous tools of telling if a message delivered successfully.<br>
+<h2>Difference between Business Continuity vs Disaster Recovery </h2>
+AWhile a Disaster Recovery Plans are apart of the large umbrella of a Business Continuity Plan, a Disaster Recovery Plan is a more technical plan used when recovering from a failure. A Business Continuity Plan is way figuring out the relationship during crisis. .<br>
 <strong>Examples of Recon Emails in the real world:</strong> <br>
-1. Spam Email with nothing but random letters in the body of the email like "tgahsdgahj" (Spam Recon Email).<br>
-2. Emails that try to use social-engineering techniques to eristic a response. (Social Engineering Recon Email).<br>
-3. Emails that use tracking pixels to see if the email was viewed. (Tracking Pixel Recon Email).<br>
-
+ 
+ <br>
+BCP: <br>
+1. Goal to keep organization operational during disaster..<br>
+2. Goal to limit down time.<br>
+ <br>
+ Disaster Recovery: <br>
+1. Goal is restore data and access after a disaster..<br>
+<h2>Typical Template of BCP: </h2>
+Purpose<br>
+Scope<br>
+Roles & Responsibilities<br>
+Procedure<br>
+Business Continuity Test<br> 
+Exceptions<br> 
+References<br>
 <br>
+ 
+ 
+<h2>Kiwi Business Continiuty Plan </h2> 
+ <h2>Purpose</h2> 
+ A Business Continuity Plan (BCP) is a process of system prevention and recovery from potential threats to organizations like our own at Kiwi. With a BCP the main goal is to ensure that personnel and assets are protected and are able to function during a disaster. <br>
+ 
+ <h2>Scope</h2> 
+ Kiwi, operates solely out of its only Headquarters in Brooklyn, New York with 50 % of employees working onsite and 50 % working via Work From Home (WFH ) model. While having a onsite model our organization is more easily affected by typical causes of business disruptions like natural disasters (Snow Storm, Flash Flooding, and Hurricanes), Workplace equipment failure, Terrorist Attacks, Global Pandemics and Telecommunications Outages. While our Work From Home (WFH) is not effected by these typical causes of business disruption we do still face challenges. Our BCP works in conjunction with the Disaster Recover Plan (DRP) we have created.<br>
+ 
+  <h2>Roles & Responsibilities</h2> 
+ <table style="width:100%">
+  <tr>
+    <th>Role</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>Kiwi Business Technology Team</td>
+    <td>Implementing and executing the BCP Procedure</td>
+  </tr>
+  <tr>
+    <td>Kiwi Business Tech Technology Management Team </td>
+    <td>Approving significant changes or exceptions to the BCP Procedure</td>
+     <tr>
+     <td>Kiwi Team Members  
+     <td>Following the requirements in the BCP  Procedure<td>
+  </tr>
+</table>
+ 
+ 
+ 
 <p align="center">
 <strong>Spam Recon Emails:</strong><br>
 <p align="center">
