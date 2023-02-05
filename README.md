@@ -77,88 +77,40 @@ References<br>
      <td>Following the requirements in the BCP  Procedure<td>
   </tr>
 </table>
+ <h2>Procedure</h2>  
+ BCP for Employees (WFH)<br>
+Kiwi is essentially 50/50 in terms of both being a remote company and an onsite organization. In terms of (WFH) plans are much more simpler as of vendors such as Google and Microsoft are bound to their Service Level Agreements as they host our data and services. As we further transition to a full WFH workforce an advantage will be if a Team within Kiwi become unavailable and cannot complete their work, Kiwi will still be available to operate. <br>
+
+The exception being situations where there is a single point of failure. In example, the Lead engineer who has final say in triggering the BCP plan is unavailable due to tornado that wiped out all communication in the engineers area for several weeks). We would have to find an alternate way of getting in contact with this engineer or develop a new plan to have a second designated final approver when the first approver is unavailable.<br>
+ 
+ BCP for Employees (Onsite)<br>
+Kiwi as stated before is essentially 50/50 in terms of both being  a remote company and a onsite organization. In terms of onsite plans its much more difficult as there is bevy of factors that can effect Business Continuity. Here below I will list some of the causes of business disruptions affecting Kiwi onsite employees and plans to counteract them. <br>
+ 
+ Global Pandemics<br>
+This is relevantly recent as of 2020 global pandemic COVID-19 which affected all businesses across the world as they were unprepared in their Business Continuity Plans regarding a global pandemic. This was no different for us a Kiwi as we did not plan for a global pandemic and will make our best efforts to plan further ahead for situations that may arise in our ever expanding world. Currently we have taken the appropriate steps to come up with a Business Continuity Plan in the event of another global pandemic or global health emergency. The plan is  segment site availability for designated time slots for employees or allowing employees to work from home as they will be able to access data remotely. If it is required an employee must come to the office they must remain isolated arrive at their designated time slot, pass a health screening, wear a mask, and have the current medical records in terms of shots up to date by 1/1/23<br>
+ 
+ 
+ Unplanned Telecommunication Outages<br>
+Business rely heavily on telecommunications working properly to be able to conduct business to most organizations this is consider a mission critical asset. At Kiwi telecommunication is mission critical, if we cannot communicate internally with our colleagues or with our customers it will result in an estimated financial loss of $250,000 for every hour telecommunications are down . In the event our telecommunications provider Spectrum has an outage that has a Meantime to Repair (MTR) over1 Hour until services are up and running. All employees will receive onsite their own personal hotspot to perform essential duties only until Spectrum resolves the issue. <br>
+
+ 
+Serve Weather (Flooding or Snow) <br>
+In the event of serve weather such as flooding or snow we urge all employees to use there best judgement before making the commute to the onsite office to ensure their safety. All Kiwi employees are allowed to work from home as long as they have their company laptops and an acceptable internet connection. In times of weather related state of emergencies Kiwi’s onsite office will be closed and will not reopen until the state of emergency is over and it is the next business day.  <br>
+ 
+   <h2>Recovery Time Objective (RTO) and Recovery Point Objective (RPO)</h2> 
+ 
+ 
+ <h2>Triggers of a Business Continuity Plan </h2> 
+ 
+  <h2>Communication Plan and Role Assignments </h2> 
+  <h2>Verification of Business Continuity Plan from Senior management Steps:</h2> 
+  <h2>Vendor Communication and Service Restoration Plan </h2> 
+  <h2>Root Cause Analysis </h2> 
+  <h2>Business Continuity Test </h2> 
+  <h2>Exceptions </h2> 
+  <h2>References </h2> 
+  
  
  
  
-<p align="center">
-<strong>Spam Recon Emails:</strong><br>
-<p align="center">
-Attackers are simply looking to see if a email error "undeliverable" is returned, if it is returned the email is in use, if it is not the email is in use.
-<br>
-Example:<br>
-<img src="https://imgur.com/czX5FrM.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
-<br />
-<br />
 
-
-<p align="center">
-<strong>Social Engineering Recon Emails:</strong><br>
- <p align="center">
-Social Engineer techniques like impersonation, using a sense of urgency, and using impersonation of someone with a high standing to achieve goal of getting a response.<br>
-Example:<br>
-<img src="https://imgur.com/kyEcyhZ.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
-<br />
-<br />
-
-<p align="center">
-<strong>Tracking Pixel Recon Email:</strong><br>
- <p align="center">
-Email that can be spam or social engineering that is combined with a tracking pixel, this allows the attacker to see if the email was viewed.This allows the attacker to see how active that email address is by looking at the time spam between sending the email and opening the email. A code using HTML code in the email body links to a pixel server. Once email is opened a message back to the server.<br>
-Information that can gathered via Pixel:<br>
-- Ip address<br>
-- Date/Time email opened<br>
-- Client Used (Webmail or Email)<br>
-- Mobile or Desktop<br>
-Example:<br>
-<img src="https://imgur.com/3VeZefZ.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
-<br />
-<br />
-
-
-
-
-
-<p align="center">
-<h2>Credential Harvester Emails</h2>
-<p align="center">
-Credential Harvesters are considered the most common phishing email, it uses human weakness and fear to retrieve valid credentials users use on everyday services and accounts. The emails are set up to look like a legit email from a company such as impersonating Amazon,AT&T, and Outlook. This email will have a attached link, that impersonating a real login portal. The user enters the credentials and it is then stored in a directory or email back to the attacker.<br>
-Example:<br>
-<img src="https://imgur.com/dgbLpAJ.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
-<br />
-<br />
-
-<p align="center">
-<h2>Vishing</h2>
-<p align="center">
-While technically not a email attack. Vishing is a phishing attack done through a phone call.<br>
-Example: The attacker calls the victim saying they are from their bank or another institution and informs them that there is a problem with their account or credit card. They will try and pry sensitive information via the phone call.<br>
-<img src="https://imgur.com/sr3hiAj.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
-<br />
-<br />
- <p align="center">
-<h2>Smishing</h2>
-<p align="center">
-While technically not a email attack. Smishing is a phishing attack done through text message.<br>
-Example: The attacker poses as the IRS and threatens the recipient with arrest and financial ruin unless they call the number in the text. If the recipient calls, they get scammed into sending money.<br>
-<img src="https://imgur.com/QdNeWuk.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
-<br />
-<br />
- <p align="center">
-<h2>Whaling</h2>
-<p align="center">
-Whaling is high target phishing attack that is looking to target individuals with high positions such as management. Targets tend to be COO,CEO, and CFO.<br>
-Example:<br>
-<img src="https://imgur.com/jhtybBq.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
-<br />
-<br />
- <p align="center">
-<h2>Spam Emails</h2>
-<p align="center">
-Spam emails are emails that usually unwanted but no malicious in nature. They can be newsletters, marketing emails, and update announcements.<br>
-Example:<br>
-<img src="https://imgur.com/iLlFJby.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
-<br />
-<br />
-<p align="center">
-<h2>False Postive</h2>
-A False Positive are emails that are not sent by an attacker and are actually legit. This can occur because of poor formatting of the email, email is not expected and asks for a action, user thinks its malicious, user is bad at identifying phishing emails.<br>
