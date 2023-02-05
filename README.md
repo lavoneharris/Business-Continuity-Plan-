@@ -4,17 +4,19 @@
 
 
 <h2>Description</h2>
-This lab will simply view types of phishing Emails and the characteristics of those emails. <br>
+This lab will explain Business Continuity Plans amd for demonstration purposes I have a fictional tech company similar to Apple and how they may make a Business Continuity Plan. This fictional Tech company is called Kiwi and it is a direct competitor to Apple, Google, and Samsung. <br>
 
 
 
-<h2>What is Phishing Emails:</h2>
-Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message. <br>
+<h2>What is a Business Continuity Plan?</h2>
+A business continuity plan (BCP) is a system of prevention and recovery from potential threats to a company. The plan ensures that personnel and assets are protected and are able to function quickly in the event of a disaster. <br>
 
 <br />
 
-<h2>Why Phishing Emails are Important:</h2>
- 74% of U.S. organizations experienced a successful phishing attack in 2020, a 14% increase from 2019. According to the FBI, phishing is the most common type of cybercrime. In 2020, they saw 12 times more phishing attacks than in 2016.
+<h2>Business Continuity Plan (BCP) Process:</h2>
+This tends to involve a 4 step process:<br />
+1. <strong>Analysis (Risk evaluation and determine business impact)
+
 <br />
 
 <h2>Types of Phishing Emails</h2>
