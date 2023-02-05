@@ -15,7 +15,7 @@ A business continuity plan (BCP) is a system of prevention and recovery from pot
 
 <h2>Business Continuity Plan (BCP) Process:</h2>
 This tends to involve a 4 step process:<br />
-1. <strong>Analysis <p>(Risk evaluation and determine business impact)
+<br /> 1. <strong>Analysis <p>(Risk evaluation and determine business impact)
 
 <br />
 
