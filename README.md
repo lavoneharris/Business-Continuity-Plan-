@@ -21,14 +21,14 @@ This tends to involve a 4 step process:<br />
  <br />4.<strong>Test</strong> (Test your plan in different scenarios and ensure the plan is updated regularly)  <br /> 
 <br />
 
-<h2>Types of Phishing Emails</h2>
-1. Reconnaissance Email<br>
-2. Credential Harvester<br>
-4. Vishing<br>
-5. Smishing<br>
-6. Whaling<br>
-7. Malicious File<br>
-8. Spam Email<br>
+<h2>Types Business Continuity</h2>
+1. Operational - Are systems and processes that are mission critical able to function without disruption? (Outages with mission critical services, Issues in Supply Chain, and Product failures)<br>
+2. Technological - Are the technologies that the organization relies can ensure the integrity of their system? (Data loss, Hardware failure, and telecom outages)<br>
+3. Economic - Is the organization able to still be profitable during a  economic issue (Recession and Financial loss)<br>
+4. Workforce - Having enough staff, right staff, that can handle work in turmoil. (Workplace strikes, Loss of essential employee, not scaling the department)<br>
+5. Safety - Having a safe work environment for employees. (Pandemics, Occupational hazards, Workplace emergencies)<br>
+6. Environmental - Being able to operate efficiently and safely in work setting. (Severe weather and Natural hazards) <br>
+7. Security -Making sure business assets are secure from breach that can effect operation, safety, and reputation. (Theft, Vandalism, and Cyberattacks)<br>
 <br>
 <h2>Reconnaissance Emails:</h2>
 Also know as Recon Emails, have one vital goal in mind and that is to get a response from the recipient. That recipient doesn't even have to reply to the message from the sender as the sender has numerous tools of telling if a message delivered successfully.<br>
