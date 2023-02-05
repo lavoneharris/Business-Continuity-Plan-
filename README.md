@@ -95,18 +95,57 @@ Business rely heavily on telecommunications working properly to be able to condu
 Serve Weather (Flooding or Snow) <br>
 In the event of serve weather such as flooding or snow we urge all employees to use there best judgement before making the commute to the onsite office to ensure their safety. All Kiwi employees are allowed to work from home as long as they have their company laptops and an acceptable internet connection. In times of weather related state of emergencies Kiwi’s onsite office will be closed and will not reopen until the state of emergency is over and it is the next business day.  <br>
  
-   <h2>Recovery Time Objective (RTO) and Recovery Point Objective (RPO)</h2> 
- 
+ <h2>Recovery Time Objective (RTO) and Recovery Point Objective (RPO)</h2> 
+ RTO and RPO are two parameters which are used in a Business Continuity plan. <br>
+RTO is the amount of time a service level or business process must be restored after a disaster.<br>
+RPO is the amount of time that has passed during a disruption before the amount of data lost has exceeded the Business Continuity Plan allowable threshold. <br>
  
  <h2>Triggers of a Business Continuity Plan </h2> 
- 
+ It is vital that a Business Continuity Plan is triggered at the appropriate time as it being too late or early can reduce its effect. <br>
+There several points to consider when triggered:<br>
+Severity (Ex: Earthquake a mile away from the office would be considered a severity level 1)<br>
+Estimated time of resolution is greater than a normal incident.<br>
+Recovery is uncertain and cannot be resolved in business defined recovery time <br>
+Priority Levels <br>
+P1- Outage with immediate impact to Kiwi customers. (Ex: Kiwi Cloud completely down)<br>
+P2 - Outage would have immediate impact on Kiwi to continue business. ( Ex: Malicious Software Attack)<br>
+P3 - Outage greater than 72 hours would have impact on Kiwi’s ability to conduct business.<br>
+P4 - Non critical System (I.e. Kiwi Notepad down).<br>
+
   <h2>Communication Plan and Role Assignments </h2> 
+ In the event of disaster communication is vital, without communication our Business Continuity Plan will be an utter failure as Kiwi colleagues will not be on the same page. This is why documentation should be updated regularly with employees contact information. Team members should have an understanding of their role and have their assignments clearly laid out during a Business Continuity Plan which will also have actions that need to be taken via guidelines and procedures. <br>
   <h2>Verification of Business Continuity Plan from Senior management Steps:</h2> 
+ Verification of Business Continuity Plan from Senior management Steps:<br>
+1. Kiwi documentation related to Business Continuity is reviewed and updated, then approved by Kiwi leadership. <br>
+2. The plan is then labeled as a work in progress.<br>
+3. Teams will verify that all details and covered and no outliers exist.<br>
+4. Team members must confirm their most recent details like contact information annually. <br>
+5. Manager will share the plan with team members based on role and department ensuring they know their role in the plan. <br> 
   <h2>Vendor Communication and Service Restoration Plan </h2> 
+ A plan cannot be successful without restoring customer confidence. As a final step, we have ensured that there is a detailed vendor communication plan as part of the Business continuity preparation plan. This plan will check  all systems and services to ensure normal operations have resumed as intended once the damage is repaired in the area. This includes checking  with the main service providers on restoration and access.<br>
   <h2>Root Cause Analysis </h2> 
+ With incidents there are bound to be mistakes or lessons learned. This is where root cause analysis comes into place, it will review the cause of the incident and develop ways that this incident any be avoided in future improving and eventually updating the Business Continuity Plan. For example you are growing tomatoes and then all of sudden the next day the tomatoes have been eating by dear. You would probably learn from this in make a fenced in garden for your tomato plants, what you did was preform a root cause analysis after your plan to grow tomatoes didn't materialize correctly in this case the cause is hungry animals.<br>
   <h2>Business Continuity Test </h2> 
+ With any plan it is important to test it out to confirm that the plan works. This in turn allows you to figure out if the plan is effective, trains others on the plan , and identifies weak points on where the plan can be strengthen. Now let's take my tomatoes example from earlier say we test out making a fenced in garden and the next day the tomatoes are eaten again. You notice that there is burrowed hole near the fenced in garden. Again your test has failed so you may go back to the drawing board and create a vertical garden unreachable for hungry animals and test again. <br>
+ Business Continuity Testing Importance<br>
+Confirm that your continuity objectives are met (RTO and RPO). <br>
+Measure response to impactful events.<br>
+Identify points in the plan that needed to be reevaluated and need modification and then improve them.<br>
+Business Continuity Plan Testing Examples<br>
+Data Loss/Breach<br>
+One of the most prevalent workplace disasters today, a data loss or breach could be due to any of the following:<br>
+Ransomware and cyberattacks<br>
+Unintentionally erased files or folders<br>
+Server/drive crash<br>
+Data Center outage<br>
+
+The main goal is to regain access to the company data as soon as possible as without access to this data it could lead to major financial loss by the minute. Normally, you would restore from a backup that is taken incrementally. Here there are several questions that have to come to mind.  Who does the backup? Priority? First person contacted? What vendors are needed if any? Financial loss? Lingering threats?<br>
+ <h2>Emergency Communication </h2> 
+ The Main goal is to be able to communicate in the event of a disaster or emergency. If that emergency or disaster is so devastating that there may be no common way of being in contact. It is important that alternate forms of communication be tested for ease, reliability, and efficiency. It is also vital that all team members in an organization update their contact information of regular basis (3 months) so timely information can be provided to them in the event of a disaster. <br>
   <h2>Exceptions </h2> 
+ It will be a list of exceptions related to the plan.<br>
   <h2>References </h2> 
+ List of references that aid in the plan such Disaster Recovery Plan and Impact Analysis <br>
   
  
  
