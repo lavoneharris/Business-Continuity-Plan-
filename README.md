@@ -29,7 +29,7 @@ This tends to involve a 4 step process:<br />
 7.  <strong>Security</strong>  - Making sure business assets are secure from breach that can effect operation, safety, and reputation. (Theft, Vandalism, and Cyberattacks)<br><br>
 <br>
 <h2>Difference between Business Continuity vs Disaster Recovery </h2>
-While a Disaster Recovery Plans are apart of the large umbrella of a Business Continuity Plan, a Disaster Recovery Plan is a more technical plan used when recovering from a failure. A Business Continuity Plan is way figuring out the relationship during crisis. .<br>
+While a Disaster Recovery Plans are apart of the large umbrella of a Business Continuity Plan, a Disaster Recovery Plan is a more technical plan used when recovering from a failure. A Business Continuity Plan is way figuring out the relationship during crisis.<br>
 <strong>Examples of Recon Emails in the real world:</strong> <br>
  
  <br>
