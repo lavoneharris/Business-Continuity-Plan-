@@ -1,6 +1,7 @@
 # Business Continuity Plan
-<strong> For demonstration purposes I have a fictional tech company similar to Apple and how they may make a Business Continuity Plan. This fictional Tech company is called Kiwi and it is a direct competitor to Apple, Google, and Samsung
 
+<h1>Business Continuity Plan</h1>
+For demonstration purposes I have a fictional tech company similar to Apple and how they may make a Business Continuity Plan. This fictional Tech company is called Kiwi and it is a direct competitor to Apple, Google, and Samsung
 <h2>Description</h2>
 This lab will explain Business Continuity Plans amd for demonstration purposes I have a fictional tech company similar to Apple and how they may make a Business Continuity Plan. This fictional Tech company is called Kiwi and it is a direct competitor to Apple, Google, and Samsung. <br>
 
