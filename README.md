@@ -1,4 +1,3 @@
-# Business Continuity Plan
 
 <h1>Business Continuity Plan</h1>
 For demonstration purposes I have a fictional tech company similar to Apple and how they may make a Business Continuity Plan. This fictional Tech company is called Kiwi and it is a direct competitor to Apple, Google, and Samsung
