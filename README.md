@@ -20,25 +20,25 @@ This tends to involve a 4 step process:<br />
 <br />
 
 <h2>Types Business Continuity</h2>
-1. Operational - Are systems and processes that are mission critical able to function without disruption? (Outages with mission critical services, Issues in Supply Chain, and Product failures)<br><br>
-2. Technological - Are the technologies that the organization relies can ensure the integrity of their system? (Data loss, Hardware failure, and telecom outages)<br><br>
-3. Economic - Is the organization able to still be profitable during a  economic issue (Recession and Financial loss)<br><br>
-4. Workforce - Having enough staff, right staff, that can handle work in turmoil. (Workplace strikes, Loss of essential employee, not scaling the department)<br><br>
-5. Safety - Having a safe work environment for employees. (Pandemics, Occupational hazards, Workplace emergencies)<br><br>
-6. Environmental - Being able to operate efficiently and safely in work setting. (Severe weather and Natural hazards) <br><br>
-7. Security - Making sure business assets are secure from breach that can effect operation, safety, and reputation. (Theft, Vandalism, and Cyberattacks)<br><br>
+1.  <strong>Operational</strong>  - Are systems and processes that are mission critical able to function without disruption? (Outages with mission critical services, Issues in Supply Chain, and Product failures)<br><br>
+2.  <strong>Technological</strong>  - Are the technologies that the organization relies can ensure the integrity of their system? (Data loss, Hardware failure, and telecom outages)<br><br>
+3.  <strong>Economic</strong>  - Is the organization able to still be profitable during a  economic issue (Recession and Financial loss)<br><br>
+4.  <strong>Workforce</strong>  - Having enough staff, right staff, that can handle work in turmoil. (Workplace strikes, Loss of essential employee, not scaling the department)<br><br>
+5.  <strong>Safety</strong>  - Having a safe work environment for employees. (Pandemics, Occupational hazards, Workplace emergencies)<br><br>
+6.  <strong>Environmental</strong>  - Being able to operate efficiently and safely in work setting. (Severe weather and Natural hazards) <br><br>
+7.  <strong>Security</strong>  - Making sure business assets are secure from breach that can effect operation, safety, and reputation. (Theft, Vandalism, and Cyberattacks)<br><br>
 <br>
 <h2>Difference between Business Continuity vs Disaster Recovery </h2>
 While a Disaster Recovery Plans are apart of the large umbrella of a Business Continuity Plan, a Disaster Recovery Plan is a more technical plan used when recovering from a failure. A Business Continuity Plan is way figuring out the relationship during crisis. .<br>
 <strong>Examples of Recon Emails in the real world:</strong> <br>
  
  <br>
-BCP: <br>
+<strong> BCP:</strong>  <br>
 1. Goal to keep organization operational during disaster..<br>
 2. Goal to limit down time.<br>
  <br>
- Disaster Recovery: <br>
-1. Goal is restore data and access after a disaster..<br>
+ <strong> Disaster Recovery:</strong>  <br>
+1. Goal is restore data and access after a disaster.<br>
 <h2>Typical Template of BCP: </h2>
 Purpose<br>
 Scope<br>
@@ -96,9 +96,9 @@ Serve Weather (Flooding or Snow) <br>
 In the event of serve weather such as flooding or snow we urge all employees to use there best judgement before making the commute to the onsite office to ensure their safety. All Kiwi employees are allowed to work from home as long as they have their company laptops and an acceptable internet connection. In times of weather related state of emergencies Kiwi’s onsite office will be closed and will not reopen until the state of emergency is over and it is the next business day.  <br>
  
  <h2>Recovery Time Objective (RTO) and Recovery Point Objective (RPO)</h2> 
- RTO and RPO are two parameters which are used in a Business Continuity plan. <br>
-RTO is the amount of time a service level or business process must be restored after a disaster.<br>
-RPO is the amount of time that has passed during a disruption before the amount of data lost has exceeded the Business Continuity Plan allowable threshold. <br>
+ <strong> RTO</strong>  and <strong> RPO</strong>  are two parameters which are used in a Business Continuity plan. <br>
+<strong> RTO</strong>  is the amount of time a service level or business process must be restored after a disaster.<br>
+<strong> RPO</strong>  is the amount of time that has passed during a disruption before the amount of data lost has exceeded the Business Continuity Plan allowable threshold. <br>
  
  <h2>Triggers of a Business Continuity Plan </h2> 
  It is vital that a Business Continuity Plan is triggered at the appropriate time as it being too late or early can reduce its effect. <br>
