@@ -6,12 +6,12 @@ This lab will explain Business Continuity Plans amd for demonstration purposes I
 
 
 
-<h1>What is a Business Continuity Plan?</h1>
+<h2>What is a Business Continuity Plan?</h2>
 A business continuity plan (BCP) is a system of prevention and recovery from potential threats to a company. The plan ensures that personnel and assets are protected and are able to function quickly in the event of a disaster. <br>
 
 <br />
 
-<h1>Business Continuity Plan (BCP) Process:</h1>
+<h2>Business Continuity Plan (BCP) Process:</h2>
 This tends to involve a 4 step process:<br />
 <br /> 1. <strong>Analysis</strong> (Risk evaluation and determine business impact)<br /> 
  <br /> 2.<strong>Design</strong> (Develop recovery strategies) <br /> 
@@ -19,7 +19,7 @@ This tends to involve a 4 step process:<br />
  <br />4.<strong>Test</strong> (Test your plan in different scenarios and ensure the plan is updated regularly)  <br /> 
 <br />
 
-<h1>Types Business Continuity</h1>
+<h2>Types Business Continuity</h2>
 1. Operational - Are systems and processes that are mission critical able to function without disruption? (Outages with mission critical services, Issues in Supply Chain, and Product failures)<br><br>
 2. Technological - Are the technologies that the organization relies can ensure the integrity of their system? (Data loss, Hardware failure, and telecom outages)<br><br>
 3. Economic - Is the organization able to still be profitable during a  economic issue (Recession and Financial loss)<br><br>
@@ -28,7 +28,7 @@ This tends to involve a 4 step process:<br />
 6. Environmental - Being able to operate efficiently and safely in work setting. (Severe weather and Natural hazards) <br><br>
 7. Security - Making sure business assets are secure from breach that can effect operation, safety, and reputation. (Theft, Vandalism, and Cyberattacks)<br><br>
 <br>
-<h1>Difference between Business Continuity vs Disaster Recovery </h1>
+<h2>Difference between Business Continuity vs Disaster Recovery </h2>
 While a Disaster Recovery Plans are apart of the large umbrella of a Business Continuity Plan, a Disaster Recovery Plan is a more technical plan used when recovering from a failure. A Business Continuity Plan is way figuring out the relationship during crisis. .<br>
 <strong>Examples of Recon Emails in the real world:</strong> <br>
  
@@ -39,7 +39,7 @@ BCP: <br>
  <br>
  Disaster Recovery: <br>
 1. Goal is restore data and access after a disaster..<br>
-<h1>Typical Template of BCP: </h1>
+<h2>Typical Template of BCP: </h2>
 Purpose<br>
 Scope<br>
 Roles & Responsibilities<br>
@@ -50,14 +50,14 @@ References<br>
 <br>
  
  
-<h1>Kiwi Business Continiuty Plan </h1> 
+<h2>Kiwi Business Continiuty Plan </h2> 
  <h2>Purpose</h2> 
  A Business Continuity Plan (BCP) is a process of system prevention and recovery from potential threats to organizations like our own at Kiwi. With a BCP the main goal is to ensure that personnel and assets are protected and are able to function during a disaster. <br>
  
- <h1>Scope</h1> 
+ <h2>Scope</h2> 
  Kiwi, operates solely out of its only Headquarters in Brooklyn, New York with 50 % of employees working onsite and 50 % working via Work From Home (WFH ) model. While having a onsite model our organization is more easily affected by typical causes of business disruptions like natural disasters (Snow Storm, Flash Flooding, and Hurricanes), Workplace equipment failure, Terrorist Attacks, Global Pandemics and Telecommunications Outages. While our Work From Home (WFH) is not effected by these typical causes of business disruption we do still face challenges. Our BCP works in conjunction with the Disaster Recover Plan (DRP) we have created.<br>
  
-  <h1>Roles & Responsibilities</h1> 
+  <h2>Roles & Responsibilities</h2> 
  <table style="width:100%">
   <tr>
     <th>Role</th>
@@ -75,7 +75,7 @@ References<br>
      <td>Following the requirements in the BCP  Procedure<td>
   </tr>
 </table>
- <h1>Procedure</h1>  
+ <h2>Procedure</h2>  
  BCP for Employees (WFH)<br>
 Kiwi is essentially 50/50 in terms of both being a remote company and an onsite organization. In terms of (WFH) plans are much more simpler as of vendors such as Google and Microsoft are bound to their Service Level Agreements as they host our data and services. As we further transition to a full WFH workforce an advantage will be if a Team within Kiwi become unavailable and cannot complete their work, Kiwi will still be available to operate. <br>
 
@@ -121,11 +121,11 @@ P4 - Non critical System (I.e. Kiwi Notepad down).<br>
 3. Teams will verify that all details and covered and no outliers exist.<br>
 4. Team members must confirm their most recent details like contact information annually. <br>
 5. Manager will share the plan with team members based on role and department ensuring they know their role in the plan. <br> 
-  <h1>Vendor Communication and Service Restoration Plan </h1> 
+  <h2>Vendor Communication and Service Restoration Plan </h2> 
  A plan cannot be successful without restoring customer confidence. As a final step, we have ensured that there is a detailed vendor communication plan as part of the Business continuity preparation plan. This plan will check  all systems and services to ensure normal operations have resumed as intended once the damage is repaired in the area. This includes checking  with the main service providers on restoration and access.<br>
-  <h1>Root Cause Analysis </h1> 
+  <h2>Root Cause Analysis </h2> 
  With incidents there are bound to be mistakes or lessons learned. This is where root cause analysis comes into place, it will review the cause of the incident and develop ways that this incident any be avoided in future improving and eventually updating the Business Continuity Plan. For example you are growing tomatoes and then all of sudden the next day the tomatoes have been eating by dear. You would probably learn from this in make a fenced in garden for your tomato plants, what you did was preform a root cause analysis after your plan to grow tomatoes didn't materialize correctly in this case the cause is hungry animals.<br>
-  <h1>Business Continuity Test </h1> 
+  <h2>Business Continuity Test </h2> 
  With any plan it is important to test it out to confirm that the plan works. This in turn allows you to figure out if the plan is effective, trains others on the plan , and identifies weak points on where the plan can be strengthen. Now let's take my tomatoes example from earlier say we test out making a fenced in garden and the next day the tomatoes are eaten again. You notice that there is burrowed hole near the fenced in garden. Again your test has failed so you may go back to the drawing board and create a vertical garden unreachable for hungry animals and test again. <br>
  Business Continuity Testing Importance<br>
 Confirm that your continuity objectives are met (RTO and RPO). <br>
@@ -140,11 +140,11 @@ Server/drive crash<br>
 Data Center outage<br>
 
 The main goal is to regain access to the company data as soon as possible as without access to this data it could lead to major financial loss by the minute. Normally, you would restore from a backup that is taken incrementally. Here there are several questions that have to come to mind.  Who does the backup? Priority? First person contacted? What vendors are needed if any? Financial loss? Lingering threats?<br>
- <h1>Emergency Communication </h1> 
+ <h2>Emergency Communication </h2> 
  The Main goal is to be able to communicate in the event of a disaster or emergency. If that emergency or disaster is so devastating that there may be no common way of being in contact. It is important that alternate forms of communication be tested for ease, reliability, and efficiency. It is also vital that all team members in an organization update their contact information of regular basis (3 months) so timely information can be provided to them in the event of a disaster. <br>
-  <h1>Exceptions </h1> 
+  <h2>Exceptions </h2> 
  It will be a list of exceptions related to the plan.<br>
-  <h1>References </h1> 
+  <h2>References </h2> 
  List of references that aid in the plan such Disaster Recovery Plan and Impact Analysis <br>
   
  
