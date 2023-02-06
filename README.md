@@ -22,7 +22,7 @@ This tends to involve a 4 step process:<br />
 <h2>Types Business Continuity</h2>
 1.  <strong>Operational</strong>  - Are systems and processes that are mission critical able to function without disruption? (Outages with mission critical services, Issues in Supply Chain, and Product failures)<br><br>
 2.  <strong>Technological</strong>  - Are the technologies that the organization relies can ensure the integrity of their system? (Data loss, Hardware failure, and telecom outages)<br><br>
-3.  <strong>Economic</strong>  - Is the organization able to still be profitable during a  economic issue (Recession and Financial loss)<br><br>
+3.  <strong>Economic</strong>  - Is the organization able to still be profitable during a  economic issue? (Recession and Financial loss)<br><br>
 4.  <strong>Workforce</strong>  - Having enough staff, right staff, that can handle work in turmoil. (Workplace strikes, Loss of essential employee, not scaling the department)<br><br>
 5.  <strong>Safety</strong>  - Having a safe work environment for employees. (Pandemics, Occupational hazards, Workplace emergencies)<br><br>
 6.  <strong>Environmental</strong>  - Being able to operate efficiently and safely in work setting. (Severe weather and Natural hazards) <br><br>
