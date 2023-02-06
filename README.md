@@ -76,23 +76,23 @@ References<br>
   </tr>
 </table>
  <h2>Procedure</h2>  
- BCP for Employees (WFH)<br>
+ <strong>BCP for Employees (WFH)</strong><br>
 Kiwi is essentially 50/50 in terms of both being a remote company and an onsite organization. In terms of (WFH) plans are much more simpler as of vendors such as Google and Microsoft are bound to their Service Level Agreements as they host our data and services. As we further transition to a full WFH workforce an advantage will be if a Team within Kiwi become unavailable and cannot complete their work, Kiwi will still be available to operate. <br>
 
 The exception being situations where there is a single point of failure. In example, the Lead engineer who has final say in triggering the BCP plan is unavailable due to tornado that wiped out all communication in the engineers area for several weeks). We would have to find an alternate way of getting in contact with this engineer or develop a new plan to have a second designated final approver when the first approver is unavailable.<br>
  
- BCP for Employees (Onsite)<br>
+ <strong>BCP for Employees (Onsite)</strong><br>
 Kiwi as stated before is essentially 50/50 in terms of both being  a remote company and a onsite organization. In terms of onsite plans its much more difficult as there is bevy of factors that can effect Business Continuity. Here below I will list some of the causes of business disruptions affecting Kiwi onsite employees and plans to counteract them. <br>
  
- Global Pandemics<br>
+ <strong>Global Pandemics</strong><br>
 This is relevantly recent as of 2020 global pandemic COVID-19 which affected all businesses across the world as they were unprepared in their Business Continuity Plans regarding a global pandemic. This was no different for us a Kiwi as we did not plan for a global pandemic and will make our best efforts to plan further ahead for situations that may arise in our ever expanding world. Currently we have taken the appropriate steps to come up with a Business Continuity Plan in the event of another global pandemic or global health emergency. The plan is  segment site availability for designated time slots for employees or allowing employees to work from home as they will be able to access data remotely. If it is required an employee must come to the office they must remain isolated arrive at their designated time slot, pass a health screening, wear a mask, and have the current medical records in terms of shots up to date by 1/1/23<br>
  
  
- Unplanned Telecommunication Outages<br>
+ <strong>Unplanned Telecommunication Outages</strong><br>
 Business rely heavily on telecommunications working properly to be able to conduct business to most organizations this is consider a mission critical asset. At Kiwi telecommunication is mission critical, if we cannot communicate internally with our colleagues or with our customers it will result in an estimated financial loss of $250,000 for every hour telecommunications are down . In the event our telecommunications provider Spectrum has an outage that has a Meantime to Repair (MTR) over1 Hour until services are up and running. All employees will receive onsite their own personal hotspot to perform essential duties only until Spectrum resolves the issue. <br>
 
  
-Serve Weather (Flooding or Snow) <br>
+<strong>Serve Weather (Flooding or Snow)</strong> <br>
 In the event of serve weather such as flooding or snow we urge all employees to use there best judgement before making the commute to the onsite office to ensure their safety. All Kiwi employees are allowed to work from home as long as they have their company laptops and an acceptable internet connection. In times of weather related state of emergencies Kiwi’s onsite office will be closed and will not reopen until the state of emergency is over and it is the next business day.  <br>
  
  <h2>Recovery Time Objective (RTO) and Recovery Point Objective (RPO)</h2> 
@@ -102,20 +102,20 @@ In the event of serve weather such as flooding or snow we urge all employees to 
  
  <h2>Triggers of a Business Continuity Plan </h2> 
  It is vital that a Business Continuity Plan is triggered at the appropriate time as it being too late or early can reduce its effect. <br>
-There several points to consider when triggered:<br>
-Severity (Ex: Earthquake a mile away from the office would be considered a severity level 1)<br>
-Estimated time of resolution is greater than a normal incident.<br>
-Recovery is uncertain and cannot be resolved in business defined recovery time <br>
-Priority Levels <br>
-P1- Outage with immediate impact to Kiwi customers. (Ex: Kiwi Cloud completely down)<br>
-P2 - Outage would have immediate impact on Kiwi to continue business. ( Ex: Malicious Software Attack)<br>
-P3 - Outage greater than 72 hours would have impact on Kiwi’s ability to conduct business.<br>
-P4 - Non critical System (I.e. Kiwi Notepad down).<br>
+<strong>There several points to consider when triggered:</strong><br>
+<strong>Severity</strong> (Ex: Earthquake a mile away from the office would be considered a severity level 1)<br>
+<strong>ETA:</strong> Estimated time of resolution is greater than a normal incident.<br>
+<strong>Recovery:</strong>Recovery is uncertain and cannot be resolved in business defined recovery time <br>
+<strong>Priority Levels</strong> <br>
+<strong>P1</strong>- Outage with immediate impact to Kiwi customers. (Ex: Kiwi Cloud completely down)<br>
+<strong>P2</strong> - Outage would have immediate impact on Kiwi to continue business. ( Ex: Malicious Software Attack)<br>
+<strong>P3</strong> - Outage greater than 72 hours would have impact on Kiwi’s ability to conduct business.<br>
+<strong>P4</strong> - Non critical System (I.e. Kiwi Notepad down).<br>
 
   <h1>Communication Plan and Role Assignments </h1> 
  In the event of disaster communication is vital, without communication our Business Continuity Plan will be an utter failure as Kiwi colleagues will not be on the same page. This is why documentation should be updated regularly with employees contact information. Team members should have an understanding of their role and have their assignments clearly laid out during a Business Continuity Plan which will also have actions that need to be taken via guidelines and procedures. <br>
   <h1>Verification of Business Continuity Plan from Senior management Steps:</h1> 
- Verification of Business Continuity Plan from Senior management Steps:<br>
+ <strong>Verification of Business Continuity Plan from Senior management Steps:</strong><br>
 1. Kiwi documentation related to Business Continuity is reviewed and updated, then approved by Kiwi leadership. <br>
 2. The plan is then labeled as a work in progress.<br>
 3. Teams will verify that all details and covered and no outliers exist.<br>
