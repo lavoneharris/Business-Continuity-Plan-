@@ -34,7 +34,7 @@ While a Disaster Recovery Plans are apart of the large umbrella of a Business Co
  
  <br>
 <strong> BCP:</strong>  <br>
-1. Goal to keep organization operational during disaster..<br>
+1. Goal to keep organization operational during disaster.<br>
 2. Goal to limit down time.<br>
  <br>
  <strong> Disaster Recovery:</strong>  <br>
