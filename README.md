@@ -131,13 +131,13 @@ In the event of serve weather such as flooding or snow we urge all employees to 
 Confirm that your continuity objectives are met (RTO and RPO). <br>
 Measure response to impactful events.<br>
 Identify points in the plan that needed to be reevaluated and need modification and then improve them.<br>
-Business Continuity Plan Testing Examples<br>
-Data Loss/Breach<br>
+<strong>Business Continuity Plan Testing Examples</strong><br>
+<strong>Data Loss/Breach:</strong><br>
 One of the most prevalent workplace disasters today, a data loss or breach could be due to any of the following:<br>
-Ransomware and cyberattacks<br>
+<strong>Ransomware and cyberattacks:</strong><br>
 Unintentionally erased files or folders<br>
-Server/drive crash<br>
-Data Center outage<br>
+<strong>Server/drive crash</strong><br>
+</strong>Data Center outage:<strong><br>
 
 The main goal is to regain access to the company data as soon as possible as without access to this data it could lead to major financial loss by the minute. Normally, you would restore from a backup that is taken incrementally. Here there are several questions that have to come to mind.  Who does the backup? Priority? First person contacted? What vendors are needed if any? Financial loss? Lingering threats?<br>
  <h2>Emergency Communication </h2> 
