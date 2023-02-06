@@ -126,18 +126,18 @@ In the event of serve weather such as flooding or snow we urge all employees to 
   <h2>Root Cause Analysis </h2> 
  With incidents there are bound to be mistakes or lessons learned. This is where root cause analysis comes into place, it will review the cause of the incident and develop ways that this incident any be avoided in future improving and eventually updating the Business Continuity Plan. For example you are growing tomatoes and then all of sudden the next day the tomatoes have been eating by dear. You would probably learn from this in make a fenced in garden for your tomato plants, what you did was preform a root cause analysis after your plan to grow tomatoes didn't materialize correctly in this case the cause is hungry animals.<br>
   <h2>Business Continuity Test </h2> 
- With any plan it is important to test it out to confirm that the plan works. This in turn allows you to figure out if the plan is effective, trains others on the plan , and identifies weak points on where the plan can be strengthen. Now let's take my tomatoes example from earlier say we test out making a fenced in garden and the next day the tomatoes are eaten again. You notice that there is burrowed hole near the fenced in garden. Again your test has failed so you may go back to the drawing board and create a vertical garden unreachable for hungry animals and test again. <br>
- Business Continuity Testing Importance<br>
+ With any plan it is important to test it out to confirm that the plan works. This in turn allows you to figure out if the plan is effective, trains others on the plan , and identifies weak points on where the plan can be strengthen. Now let's take my tomatoes example from earlier say we test out making a fenced in garden and the next day the tomatoes are eaten again. You notice that there is burrowed hole near the fenced in garden. Again your test has failed so you may go back to the drawing board and create a vertical garden unreachable for hungry animals and test again. <br><br>
+ <strong>Business Continuity Testing Importance</strong><br>
 Confirm that your continuity objectives are met (RTO and RPO). <br>
 Measure response to impactful events.<br>
-Identify points in the plan that needed to be reevaluated and need modification and then improve them.<br>
+Identify points in the plan that needed to be reevaluated and need modification and then improve them.<br><br>
 <strong>Business Continuity Plan Testing Examples</strong><br>
 <strong>Data Loss/Breach:</strong><br>
 One of the most prevalent workplace disasters today, a data loss or breach could be due to any of the following:<br>
 <strong>Ransomware and cyberattacks:</strong><br>
 Unintentionally erased files or folders<br>
 <strong>Server/drive crash</strong><br>
-</strong>Data Center outage:<strong><br>
+<strong>Data Center outage:</strong><br>
 
 The main goal is to regain access to the company data as soon as possible as without access to this data it could lead to major financial loss by the minute. Normally, you would restore from a backup that is taken incrementally. Here there are several questions that have to come to mind.  Who does the backup? Priority? First person contacted? What vendors are needed if any? Financial loss? Lingering threats?<br>
  <h2>Emergency Communication </h2> 
